@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <title>Web 1.0 Webpage</title>
+    <body>
+      <h1> <center>Welcome to my Web 1.0 Webpage!</center></h1>
+      <p><center><strong>As you will notice this page is old, outdated<br>
+        and well it not as pretty as modern websites. <br>
+        this is a historic cite. One that reminds you where we came <br>
+        from.</strong></center></p>
+     <center> 
+       <img src=http://clipart-library.com/images/8czK8kKMi.gif>
+      </center>
+      
+      <h2>Wha it web 1.0?</h2>
+      <p> Great question! Short answer its a term coined to define 
+        a website that was static. This does not change, it is 
+        gonna stay like this forever. </p>
+      <p> Would you like more info? <a href=https://websitebuilders.com/how-to/glossary/web1/>click here</a>
+        to learn more. 
+    </body>
+  </head>
+</html>
