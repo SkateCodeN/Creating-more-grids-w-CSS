@@ -1,0 +1,37 @@
+#main{
+  background-color: blue;
+}
+/* User Story #9: The img element should be centered within its parent element. */
+#img-div{
+  text-align: center;
+}
+/* User Story #8: The img element should responsively resize, relative to
+the width of its parent element, without exceeding its original size. */
+
+#image {
+  max-width: 100%;
+    display: block;
+    height: auto;
+    border:solid black;
+}
+#main #title {
+  text-align: center;
+}
+
+#tribute-info{
+  text-align: right;
+  color: white;
+}
+
+#tribute-info .center{
+  text-align: center;
+  
+}
+
+#tribute-info .left{
+  text-align: left;
+}
+
+#tribute-link{
+  text-align: center;
+}
