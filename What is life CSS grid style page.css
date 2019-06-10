@@ -1,0 +1,72 @@
+<style>
+  .item1{background:LightSkyBlue;
+    grid-row: 2/3;
+    text-align: center;
+    }
+  .item2{background:LightSalmon;
+  grid-column: 1/4;
+  text-align: center;
+  }
+  .item3{background:PaleTurquoise;
+  grid-row: 2/4;
+
+  }
+  .item4{background:LightPink;
+    grid-column: 3/4;
+    text-align:center;
+  }
+  
+  .item5 {
+    background: PaleGreen;
+    /* add your code below this line */
+    grid-column: 1/4;
+    text-align:center;
+    
+    /* add your code above this line */
+  }
+  .item6{
+    background: red;
+    grid-row: 2/3;
+    text-align: center;
+
+  }
+  
+  .item7{
+    background: black;
+    color:white;
+    grid-row: 3/4;
+    grid-column: 1/2;
+    text-align:center;
+  }
+  .container {
+    font-size: 40px;
+    min-height: 300px;
+    width: 100%;
+    background: LightGray;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 10px;
+  }
+</style>
+  
+<div class="container">
+  <div class="item1">
+    <p> Why does there need to be life?</p></div>
+  <div class="item2">
+    <h1>Life is...</h1>
+  </div>
+  <div class="item3">3</div>
+  <div class="item4">
+    <p> When is life?</p>
+  </div>
+  <div class="item5">
+    <p>Please see me for more</p>
+  </div>
+  <div class="item6">
+    <p> What is life?</p>
+  </div>
+  <div class="item7">
+    <p> Where is life?</p>
+  </div>
+</div>
