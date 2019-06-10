@@ -1,0 +1,60 @@
+#main{
+  background-color:  #C6C4C5;
+  display: grid;
+  width: 100%;
+  grid-template-rows:  7% auto 60% auto;
+}
+#title{
+  background-color:#4BFFA5;
+    border: solid #4BFFA5;
+    border-width: 1px;
+
+
+}
+h1 {
+  color:red;
+}
+/* User Story #9: The img element should be centered within its parent element. */
+#img-div{
+  text-align: center;
+}
+/* User Story #8: The img element should responsively resize, relative to the width of its parent element, without exceeding its original size. */
+
+#image {
+  max-width: 100%;
+    display: block;
+    height: auto;
+    
+}
+#main #title {
+  text-align: center;
+}
+
+#tribute-info{
+  text-align: right;
+  color: #040F3D;
+  background-color: blue;
+    
+
+}
+
+#tribute-info .center{
+  text-align: center;
+  background-color: red;
+}
+
+#tribute-info .left{
+  text-align: left;
+}
+
+p, h3{
+  color:white;
+  font-family: "Tahoma";
+  border-style: hidden;
+  position: relative;
+  border-width: 0px 0px 0px 20px;
+}
+
+a{
+  text-align: center;
+}
