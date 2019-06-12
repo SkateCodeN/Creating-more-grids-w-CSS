@@ -1,0 +1,46 @@
+Starting to look a lot more like this https://codepen.io/freeCodeCamp/full/VPaoNP
+
+.container{
+  background: gray;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  
+}
+#title h1{
+  text-align: center;
+  font-family:"Tahoma";
+}
+ .container #survey-form{
+  background: red;
+   display: flex;
+  justify-content: center;
+   length: 100px;
+  
+}
+#description{
+  display:flex;
+  flex-direction: column;
+}
+
+ #name-label {
+  display: flex;
+  
+   
+  
+}
+  
+#number-label {
+   display: flex;
+  flex-direction: row;
+}
+
+#number-label #number{
+  text-align: justify;
+}
+
+
+
+
+
+
